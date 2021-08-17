@@ -1,0 +1,8 @@
+1.) how would you access the driver's name of rentalCar object?
+Sol: rentalCar.driverDetails.name;
+
+2.) how would you delete hourlyRate property from rentalCar object?
+Sol: delete rentalCar.hourlyRate;
+
+3.) how would you access the 2nd booking's customer name from rentalCar object?
+Sol: rentalCar.bookings[1].customer.name;

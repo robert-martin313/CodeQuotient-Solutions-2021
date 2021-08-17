@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<p id="demo"></p>
+
+<script>
+let text = "";
+var board_size=8
+for(let j=0;j<board_size;j++)
+{
+for (let i = 0; i < board_size/2; i=i+1) {
+if(j%2==0)
+  text += "* # ";
+  else
+   text += "# * ";
+  
+  
+}
+Newline();
+}
+print(text);
+function print(data)
+{
+document.getElementById("demo").innerHTML = data;
+}
+function Newline()
+{
+  text=text+"<br>";
+}
+</script>
+
+</body>
+</html>

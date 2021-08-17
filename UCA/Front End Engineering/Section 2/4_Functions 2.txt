@@ -1,0 +1,4 @@
+1.) What will be the  the return value of function calls in Task 1 code snippet?
+CQ says, 'Hi!'
+John Doe says, 'Hi!'
+Mrityunjay says, 'Hi!'
