@@ -2,8 +2,8 @@
 - Front-End Engneering 2021
 - Programming Abstractions 2021
 
-`**Do Contribute**`
-Website: - [http://www.adsingh.net/](http://www.adsingh.net/)
-Website: - [http://projects.adsingh.net/](http://projects.adsingh.net/)
+`**Do Contribute**`<br/>
+Website: - [http://www.adsingh.net/](http://www.adsingh.net/)<br/>
+Website: - [http://projects.adsingh.net/](http://projects.adsingh.net/)<br/>
 Website: - [https://vfxguy.net/](https://vfxguy.net/)
 
